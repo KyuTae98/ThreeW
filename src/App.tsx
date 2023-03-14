@@ -1,10 +1,11 @@
 import React from "react";
+import MainPage from "./page/MainPage";
 
 
 const App = () =>{
     return (
     <div>
-        <h1>Hello, World</h1>
+        <MainPage/>
     </div>
     )
 }

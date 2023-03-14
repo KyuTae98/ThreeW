@@ -1,4 +1,4 @@
-import {useState, useEffect} from 'react'
+import {ReactNode, useState, useEffect} from 'react'
 
 interface locationType {
     loaded:boolean,
